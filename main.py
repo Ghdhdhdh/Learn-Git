@@ -1,4 +1,4 @@
-x = str(input("Enter a word: "))
+x = input("Enter a word or number: ")
 
 test = "Hello"
 
